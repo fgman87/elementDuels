@@ -14,8 +14,9 @@ The key features of the Element Duel Game include:
 
 How to Play
 
-    Choose an element (Fire, Water, Grass) for your attack or defense.
+    
     Allocate your mana for your chosen actions.
+    Choose an element (Fire, Water, Grass) for your attack or defense.
     Watch the AI opponent's choices and adapt your strategy accordingly.
     Pay attention to element interactions that can influence the outcome of the battle.
     Win by reducing your opponent's health to zero while preserving your own.
